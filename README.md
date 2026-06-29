@@ -26,10 +26,75 @@ Building scalable backend systems, cloud-native APIs, and enterprise software se
 
 ## 👨‍💻 About Me
 
-Senior .NET Backend Engineer with **9+ years of experience** building enterprise-grade backend systems, scalable APIs, distributed applications, and secure government integrations.
-
-I have worked across **Government**, **FinTech**, **Banking**, **Logistics**, and **Enterprise Platforms**, delivering secure and scalable solutions used by millions of users.
-
 Currently focused on building cloud-native applications, AI-powered solutions, distributed systems, and modern enterprise architectures.
 
----   Added Hero Section
+---
+
+## 🏆 Professional Highlights
+
+- 💼 9+ Years of Professional Experience
+- 🇦🇪 Contributed to UAE Government digital transformation projects
+- 💳 Developed secure Visa Direct payment integrations
+- ⚡ Improved enterprise platform performance by 30–40%
+- 🏗 Specialized in Enterprise Architecture, Clean Architecture & Microservices
+- ☁ Experienced with Azure Cloud, Docker & Distributed Systems
+- 🤖 Building AI-powered enterprise applications using LLMs & RAG
+
+---
+
+## 🚀 Core Expertise
+
+<table>
+<tr>
+<td>
+
+### Backend
+- .NET 6/7/8/9
+- ASP.NET Core
+- C#
+- Web APIs
+- Minimal APIs
+- Entity Framework Core
+
+</td>
+
+<td>
+
+### Architecture
+- Clean Architecture
+- CQRS
+- DDD
+- Microservices
+- SOLID Principles
+- MediatR
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Database
+- SQL Server
+- Oracle
+- PostgreSQL
+- MongoDB
+- Redis
+
+</td>
+
+<td>
+
+### Cloud & DevOps
+- Azure
+- Docker
+- GitHub Actions
+- Azure DevOps
+- RabbitMQ
+
+</td>
+</tr>
+
+</table>
+
+---
