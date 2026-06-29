@@ -10,6 +10,48 @@
 
 Building scalable backend systems, cloud-native APIs, and enterprise software serving millions of users.
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nasir-ali-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/nasir-ali-ai?logo=github&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/nasir-ali-ai?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🏅 Certifications
+
+- 🥇 Microsoft Azure Fundamentals (AZ-900)
+- 🥇 Docker Foundations Professional Certificate
+- 🥇 Machine Learning with Python
+- 🥇 React (82nd Percentile)
+- 🥇 micro1 AI Interview Certification
+
+---
+
+## 🏆 Career Highlights
+
+✔ 9+ Years Experience
+
+✔ UAE Government Projects
+
+✔ Visa Direct Integration
+
+✔ Enterprise Systems
+
+✔ Banking Applications
+
+✔ AI Integration
+
+✔ Performance Optimization (30–40%)
+
+---
+
 <br>
 
 <a href="https://linkedin.com/in/nak1990">
