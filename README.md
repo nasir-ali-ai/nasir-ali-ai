@@ -1,144 +1,151 @@
-<div align="center">
+# Hi 👋 I'm Nasir Ali
 
-# Hi 👋, I'm Nasir Ali
+### Senior .NET Backend Engineer \| Enterprise Systems \| AI Engineering \| Solution Design
 
-### Senior .NET Backend Engineer | Enterprise Systems | Microservices | AI Engineering
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Senior+.NET+Backend+Engineer;Enterprise+Systems+Specialist;Microservices+Architect;Azure+Cloud+Developer;AI+Integration+Engineer;Building+Systems+Serving+Millions" />
-
-<br>
-
-Building scalable backend systems, cloud-native APIs, and enterprise software serving millions of users.
-
-
+```{=html}
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nasir-ali-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/nasir-ali-ai?logo=github&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/stars/nasir-ali-ai?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge" />
-
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Senior+.NET+Backend+Engineer;Enterprise+Architecture;Microservices+%7C+Azure+%7C+AI;Building+Systems+Serving+Millions;Open+to+Global+Opportunities" />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+Building secure, scalable and cloud-native backend platforms used by
+government, fintech and enterprise organizations.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/nak1990">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:nasirali.se@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<img src="https://komarev.com/ghpvc/?username=nasir-ali-ai&style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Open%20To%20Work-Global-success?style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🏅 Certifications
+# 👨‍💻 About Me
 
-| Certification | Status |
-|---------------|--------|
-| Microsoft Azure Fundamentals (AZ-900) | ✅ |
-| Docker Foundations Professional Certificate | ✅ |
-| Machine Learning with Python | ✅ |
-| React (82nd Percentile) | ✅ |
-| micro1 AI Interview Certification | ✅ |
+Senior .NET Backend Engineer with **9+ years** of experience delivering
+enterprise software, distributed systems, secure APIs and cloud-native
+solutions.
 
----
+### Domains
 
-## 🏆 Career Highlights
+-   🇦🇪 UAE Government
+-   💳 FinTech
+-   🏦 Banking
+-   🚢 Logistics
+-   🤖 AI Applications
 
-- 💼 9+ Years of Professional Experience
-- 🇦🇪 Delivered enterprise solutions for UAE Government organizations
-- 💳 Built secure Visa Direct payment integrations
-- 🚀 Improved enterprise platform performance by **30–40%**
-- 🏗 Designed scalable Microservices & Clean Architecture solutions
-- ☁ Built cloud-native applications using Azure
-- 🤖 Working on AI-powered enterprise applications
+### Core Expertise
 
----
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,docker,redis,rabbitmq,postgres,mongodb,git,github,linux,react,ts,js"/>`{=html}
+```{=html}
+</p>
+```
 
-<br>
+------------------------------------------------------------------------
 
-<a href="https://linkedin.com/in/nak1990">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 🚀 What I Do
 
-<a href="mailto:nasirali.se@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+-   Enterprise Backend Development
+-   REST APIs & Microservices
+-   Clean Architecture
+-   CQRS & DDD
+-   Azure Cloud
+-   AI & LLM Integration
+-   Performance Optimization
+-   System Design
 
-</div>
+------------------------------------------------------------------------
 
----
+# 🏆 Career Highlights
 
-## 👨‍💻 About Me
+-   9+ Years Professional Experience
+-   Built enterprise systems serving millions of users
+-   Visa Direct payment integration
+-   UAE Government integrations
+-   30--40% backend performance improvement
+-   Azure Cloud & Distributed Systems
 
-Senior .NET Backend Engineer with **9+ years of experience** designing and developing enterprise-grade backend systems, scalable APIs, distributed applications, and cloud-native solutions.
+------------------------------------------------------------------------
 
-I have worked across **Government, FinTech, Banking, Logistics, and Enterprise Platforms**, delivering secure, scalable, and high-performance software used by millions of users.
+# 📜 Certifications
 
-My expertise includes **.NET, Microservices, Clean Architecture, Distributed Systems, Azure Cloud, AI Integration, and Enterprise System Design**.
+  Certification                            Status
+  --------------------------------------- --------
+  Microsoft Azure Fundamentals (AZ-900)      ✅
+  Docker Foundations                         ✅
+  Machine Learning with Python               ✅
+  React (82nd Percentile)                    ✅
+  micro1 AI Interview                        ✅
 
-Currently focused on **AI Engineering, Agentic AI, RAG, Cloud Architecture, and Modern Backend Development**.
+------------------------------------------------------------------------
 
----
+# 📈 GitHub Stats
 
-## 🏆 Professional Highlights
+> GitHub statistics will automatically populate as you continue
+> contributing.
 
-- 💼 9+ Years of Professional Experience
-- 🇦🇪 Contributed to UAE Government digital transformation projects
-- 💳 Developed secure Visa Direct payment integrations
-- ⚡ Improved enterprise platform performance by 30–40%
-- 🏗 Specialized in Enterprise Architecture, Clean Architecture & Microservices
-- ☁ Experienced with Azure Cloud, Docker & Distributed Systems
-- 🤖 Building AI-powered enterprise applications using LLMs & RAG
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasir-ali-ai&show_icons=true&theme=transparent&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-ali-ai&layout=compact&theme=transparent&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com?user=nasir-ali-ai&theme=transparent&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 Core Expertise
+# 🏗 Featured Projects
 
-<table>
-<tr>
-<td>
+🚧 Coming Soon
 
-### Backend
-- .NET 6/7/8/9
-- ASP.NET Core
-- C#
-- Web APIs
-- Minimal APIs
-- Entity Framework Core
+-   Enterprise Clean Architecture
+-   Enterprise Microservices
+-   Government Integration Framework
+-   Banking Transaction Engine
+-   AI Resume Screening
+-   Agentic AI with .NET
+-   Metadata Rule Engine
 
-</td>
+------------------------------------------------------------------------
 
-<td>
+# 🌍 Currently Looking For
 
-### Architecture
-- Clean Architecture
-- CQRS
-- DDD
-- Microservices
-- SOLID Principles
-- MediatR
+-   Senior .NET Backend Engineer
+-   Senior Software Engineer
+-   Backend Architect
+-   Solution Architect
+-   Technical Lead
 
-</td>
-</tr>
+Open to **Remote**, **Hybrid**, and **On-site** opportunities worldwide.
 
-<tr>
-<td>
+------------------------------------------------------------------------
 
-### Database
-- SQL Server
-- Oracle
-- PostgreSQL
-- MongoDB
-- Redis
+# 🤝 Connect
 
-</td>
+-   📧 nasirali.se@gmail.com
+-   💼 https://linkedin.com/in/nak1990
 
-<td>
+------------------------------------------------------------------------
 
-### Cloud & DevOps
-- Azure
-- Docker
-- GitHub Actions
-- Azure DevOps
-- RabbitMQ
-
-</td>
-</tr>
-
-</table>
-
----
+⭐ Thanks for visiting my profile.
