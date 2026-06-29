@@ -26,29 +26,25 @@ Building scalable backend systems, cloud-native APIs, and enterprise software se
 
 ## 🏅 Certifications
 
-- 🥇 Microsoft Azure Fundamentals (AZ-900)
-- 🥇 Docker Foundations Professional Certificate
-- 🥇 Machine Learning with Python
-- 🥇 React (82nd Percentile)
-- 🥇 micro1 AI Interview Certification
+| Certification | Status |
+|---------------|--------|
+| Microsoft Azure Fundamentals (AZ-900) | ✅ |
+| Docker Foundations Professional Certificate | ✅ |
+| Machine Learning with Python | ✅ |
+| React (82nd Percentile) | ✅ |
+| micro1 AI Interview Certification | ✅ |
 
 ---
 
 ## 🏆 Career Highlights
 
-✔ 9+ Years Experience
-
-✔ UAE Government Projects
-
-✔ Visa Direct Integration
-
-✔ Enterprise Systems
-
-✔ Banking Applications
-
-✔ AI Integration
-
-✔ Performance Optimization (30–40%)
+- 💼 9+ Years of Professional Experience
+- 🇦🇪 Delivered enterprise solutions for UAE Government organizations
+- 💳 Built secure Visa Direct payment integrations
+- 🚀 Improved enterprise platform performance by **30–40%**
+- 🏗 Designed scalable Microservices & Clean Architecture solutions
+- ☁ Built cloud-native applications using Azure
+- 🤖 Working on AI-powered enterprise applications
 
 ---
 
@@ -68,7 +64,13 @@ Building scalable backend systems, cloud-native APIs, and enterprise software se
 
 ## 👨‍💻 About Me
 
-Currently focused on building cloud-native applications, AI-powered solutions, distributed systems, and modern enterprise architectures.
+Senior .NET Backend Engineer with **9+ years of experience** designing and developing enterprise-grade backend systems, scalable APIs, distributed applications, and cloud-native solutions.
+
+I have worked across **Government, FinTech, Banking, Logistics, and Enterprise Platforms**, delivering secure, scalable, and high-performance software used by millions of users.
+
+My expertise includes **.NET, Microservices, Clean Architecture, Distributed Systems, Azure Cloud, AI Integration, and Enterprise System Design**.
+
+Currently focused on **AI Engineering, Agentic AI, RAG, Cloud Architecture, and Modern Backend Development**.
 
 ---
 
