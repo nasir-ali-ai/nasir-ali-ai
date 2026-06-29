@@ -60,17 +60,6 @@ Senior .NET Backend Engineer with **9+ years of experience** designing enterpris
 
 ---
 
-# 🏆 Career Highlights
-
-- 9+ Years Professional Experience
-- Built enterprise systems serving millions of users
-- UAE Government Integrations
-- Visa Direct Payment APIs
-- 30–40% Backend Performance Improvement
-- Azure Cloud & Distributed Systems
-
----
-
 # 📜 Certifications
 
 | Certification | Status |
@@ -85,7 +74,6 @@ Senior .NET Backend Engineer with **9+ years of experience** designing enterpris
 
 # 📈 GitHub Stats
 
-> These cards become meaningful as your repositories and contributions grow.
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nasir-ali-ai&show_icons=true&theme=transparent&hide_border=true"/>
@@ -98,19 +86,35 @@ Senior .NET Backend Engineer with **9+ years of experience** designing enterpris
 
 ---
 
-# 🏗 Featured Projects
+# 🏢 Enterprise Experience
 
-- Enterprise Clean Architecture
-- Enterprise Microservices
-- Government Integration Framework
-- Banking Transaction Engine
-- AI Resume Screening
-- Agentic AI (.NET)
-- Metadata Rule Engine
+With **9+ years of professional experience**, I have contributed to the design, development, and modernization of enterprise software solutions across multiple industries, including Government, FinTech, Banking, Logistics, and AI.
 
----
+During my career, I have worked with organizations such as:
 
-# 🌍 Open To Opportunities
+- 🇦🇪 Ministry of Human Resources & Emiratisation (MOHRE), UAE
+- 🚢 AD Ports Group
+- 🏛 Pakistan Revenue Automation (PRAL)
+- 💳 Enterprise Payment Platforms
+- 🤖 AI & Intelligent Automation Solutions
+
+### Areas of Contribution
+
+- Enterprise Backend Development
+- High-Performance REST APIs
+- Secure Government Integrations
+- Visa Direct Payment Integrations
+- Distributed Systems
+- Clean Architecture
+- CQRS & Domain-Driven Design
+- Cloud-Native Development
+- Performance Optimization
+- AI & LLM Integration
+
+> **Note:** Due to confidentiality agreements (NDA), proprietary source code, internal architecture, and client-specific implementation details cannot be shared publicly. The repositories on this GitHub profile demonstrate the same engineering principles, architectural patterns, and software development practices that I use while building enterprise solutions.
+
+
+# 🌍 Open to full-time, contract, and remote opportunities across North America, Europe, the Middle East, and APAC.
 
 - Senior .NET Backend Engineer
 - Senior Software Engineer
