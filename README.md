@@ -4,135 +4,32 @@
 
 ### Senior .NET Backend Engineer | Enterprise Systems | Microservices | AI Engineering
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Senior+.NET+Backend+Engineer;Enterprise+Systems+Specialist;Microservices+Architect;Azure+Cloud+Developer;AI+Integration+Engineer;Building+Systems+Serving+Millions" />
+
+<br>
+
 Building scalable backend systems, cloud-native APIs, and enterprise software serving millions of users.
 
-<p>
-<a href="https://www.linkedin.com/in/nak1990">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+<br>
+
+<a href="https://linkedin.com/in/nak1990">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nasirali.se@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Senior .NET Backend Engineer with 9+ years of experience designing scalable enterprise software, secure APIs, distributed systems, and cloud-native applications.
+Senior .NET Backend Engineer with **9+ years of experience** building enterprise-grade backend systems, scalable APIs, distributed applications, and secure government integrations.
 
-I have worked on large-scale enterprise projects across:
+I have worked across **Government**, **FinTech**, **Banking**, **Logistics**, and **Enterprise Platforms**, delivering secure and scalable solutions used by millions of users.
 
-- 🇦🇪 UAE Government
-- 💳 FinTech
-- 🏦 Banking
-- 🚢 Logistics
-- 🤖 AI Applications
+Currently focused on building cloud-native applications, AI-powered solutions, distributed systems, and modern enterprise architectures.
 
-I enjoy solving complex backend problems using Clean Architecture, Microservices, Distributed Systems, and modern cloud technologies.
-
----
-
-# 🚀 Current Focus
-
-- Enterprise Backend Architecture
-- Microservices
-- Distributed Systems
-- AI Engineering
-- Agentic AI
-- LangGraph
-- RAG
-- Azure Cloud
-- .NET 9
-
----
-
-# 🛠 Tech Stack
-
-### Backend
-
-- C#
-- .NET
-- ASP.NET Core
-- Web API
-- Minimal API
-- Clean Architecture
-- CQRS
-- MediatR
-- Entity Framework Core
-
-### Database
-
-- SQL Server
-- Oracle
-- PostgreSQL
-- MongoDB
-- Redis
-
-### Cloud
-
-- Azure
-- Docker
-- GitHub Actions
-
-### Messaging
-
-- RabbitMQ
-- Azure Service Bus
-
-### AI
-
-- OpenAI
-- Google Gemini
-- LangChain
-- RAG
-- n8n
-
----
-
-# 💼 Experience
-
-- ✅ 9+ Years Experience
-- ✅ UAE Government Projects
-- ✅ Enterprise Systems
-- ✅ Banking Applications
-- ✅ Visa Direct APIs
-- ✅ Distributed Systems
-
----
-
-# 🏗 Featured Projects
-
-🚧 Coming Soon
-
-- Enterprise Clean Architecture
-- Enterprise Microservices
-- Banking Transaction Engine
-- Government Integration Framework
-- AI Resume Screening
-- Metadata Driven Rule Engine
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- LangGraph
-- MCP
-- Azure AI
-- Kubernetes
-
----
-
-# 🤝 Connect With Me
-
-- 📧 nasirali.se@gmail.com
-- 💼 https://linkedin.com/in/nak1990
-
----
-
-⭐ Thanks for visiting my profile.
+---   Added Hero Section
